@@ -1,3 +1,1 @@
-my firs
-my secomg
-insert to github
+readme for my project 33333333
